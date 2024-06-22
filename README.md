@@ -1,6 +1,6 @@
 ## Apolo Grave.
 
-<img src="gif0.gif">
+<img height="100%" width="100%" src="gif0.gif">
 
 <div>
   <a href="github.com/apolograve"></a>
