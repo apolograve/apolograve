@@ -2,6 +2,10 @@
 
 <img height="100%" width="100%" src="gif0.gif">
 
+<video loop autoplay muted playsinline>
+  <source src="gif0.mp4" type="video/mp4">
+</video>
+
 <div>
   <a href="github.com/apolograve"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apolograve&count_private=true&show_icons=true&theme=transparent">
