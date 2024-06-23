@@ -18,7 +18,7 @@
 
 -->
       
-  <img width="100%" src="gif.gif">
+  <img width="100%" src="gif0.gif">
 
 <div>
   <a href="github.com/apolograve"></a>
