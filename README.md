@@ -17,8 +17,6 @@
 |____________|_|      |_________|    \___/    |_________||_|
 
 -->
-
-<html>
       
   <img width="100%" src="gif0.gif">
 
@@ -38,5 +36,3 @@
   <a href="github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white"></a>
   <a href="github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/BitTorrent-050505.svg?style=for-the-badge&logo=BitTorrent&logoColor=white"></a>
 </div>
-
-</html>
