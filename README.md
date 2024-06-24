@@ -41,6 +41,7 @@
   <a href="github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"></a>
   <a href="github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white"></a>
   <a href="github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/BitTorrent-050505.svg?style=for-the-badge&logo=BitTorrent&logoColor=white"></a>
+  <a href="github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white"></a>
 </div>
 
 <picture>
