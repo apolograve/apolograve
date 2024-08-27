@@ -20,6 +20,8 @@
       
 <img class="margot" width="100%" src="gif00.gif">
 
+##
+
 <div class="streaks" align="center">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=apolograve&theme=transparent">
 </div>
@@ -43,6 +45,8 @@
   <a href="https://github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/BitTorrent-050505.svg?style=for-the-badge&logo=BitTorrent&logoColor=white"></a>
   <a href="https://github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white"></a>
 </div>
+
+##
 
 <picture class="snake">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apolograve/apolograve/output/github-contribution-grid-snake-dark.svg">
