@@ -36,12 +36,12 @@
 
 <div class="skills" align="center">
   <a href="https://github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></a>
-  <a href="github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
-  <a href="github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
-  <a href="github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"></a>
-  <a href="github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white"></a>
-  <a href="github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/BitTorrent-050505.svg?style=for-the-badge&logo=BitTorrent&logoColor=white"></a>
-  <a href="github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white"></a>
+  <a href="https://github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+  <a href="https://github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
+  <a href="https://github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"></a>
+  <a href="https://github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white"></a>
+  <a href="https://github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/BitTorrent-050505.svg?style=for-the-badge&logo=BitTorrent&logoColor=white"></a>
+  <a href="https://github.com/apolograve" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white"></a>
 </div>
 
 <picture class="snake">
