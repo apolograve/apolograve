@@ -18,7 +18,7 @@
 
 -->
       
-  <img width="100%" src="gif00.gif">
+<img class="margot" width="100%" src="gif00.gif">
 
 <div align="center">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=apolograve&theme=transparent">
