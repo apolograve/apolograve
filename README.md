@@ -28,7 +28,7 @@
 
 ##
 
-<div class="2-stats">
+<div class="2_stats">
   <a href="github.com/apolograve"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apolograve&count_private=true&show_icons=true&theme=transparent">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apolograve&layout=compact&theme=transparent">
