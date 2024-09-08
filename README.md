@@ -17,18 +17,26 @@
 |____________|_|      |_________|    \___/    |_________||_|
 
 -->
+
+<!-- @apolograve
+@apolograve
+@apolograve
+@apolograve
+@apolograve
+@apolograve
+-->
       
 <img class="margot" width="100%" src="gif00.gif">
 
 ##
 
 <div class="streaks" align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=apolograve&theme=transparent">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=apolograve&theme=transparent">
 </div>
 
 ##
 
-<div class="2_stats">
+<div class="2-stats">
   <a href="github.com/apolograve"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apolograve&count_private=true&show_icons=true&theme=transparent">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apolograve&layout=compact&theme=transparent">
