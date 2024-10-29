@@ -35,7 +35,6 @@
 </div>
 
 ##
-##
 
 <div class="2-stats">
   <a href="github.com/apolograve"></a>
